@@ -1,0 +1,9 @@
+source;share/position_filter/hook/pythonpath.ps1
+source;share/position_filter/hook/pythonpath.dsv
+source;share/position_filter/hook/pythonpath.sh
+source;share/position_filter/hook/ament_prefix_path.ps1
+source;share/position_filter/hook/ament_prefix_path.dsv
+source;share/position_filter/hook/ament_prefix_path.sh
+source;../../build/position_filter/share/position_filter/hook/pythonpath_develop.ps1
+source;../../build/position_filter/share/position_filter/hook/pythonpath_develop.dsv
+source;../../build/position_filter/share/position_filter/hook/pythonpath_develop.sh

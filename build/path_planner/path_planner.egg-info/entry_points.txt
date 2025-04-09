@@ -1,0 +1,6 @@
+[console_scripts]
+csv_tf_broadcaster = path_planner.csv_tf_broadcaster:main
+generate_lead_path = path_planner.generate_lead_path:main
+generate_offset_path = path_planner.generate_offset_path:main
+visualize_paths = path_planner.visualize_paths:main
+

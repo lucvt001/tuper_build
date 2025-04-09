@@ -1,0 +1,9 @@
+source;share/arduagent/hook/pythonpath.ps1
+source;share/arduagent/hook/pythonpath.dsv
+source;share/arduagent/hook/pythonpath.sh
+source;share/arduagent/hook/ament_prefix_path.ps1
+source;share/arduagent/hook/ament_prefix_path.dsv
+source;share/arduagent/hook/ament_prefix_path.sh
+source;../../build/arduagent/share/arduagent/hook/pythonpath_develop.ps1
+source;../../build/arduagent/share/arduagent/hook/pythonpath_develop.dsv
+source;../../build/arduagent/share/arduagent/hook/pythonpath_develop.sh

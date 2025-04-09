@@ -1,0 +1,3 @@
+[console_scripts]
+position_filter = position_filter.filter:main
+

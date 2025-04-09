@@ -1,0 +1,1 @@
+/home/smarc2user/colcon_ws/build/btcpp_ros2_interfaces/rosidl_generator_py/btcpp_ros2_interfaces/msg/__init__.py

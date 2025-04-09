@@ -1,0 +1,1 @@
+/home/smarc2user/colcon_ws/build/tuper_btcpp/ament_cmake_core/tuper_btcppConfig-version.cmake

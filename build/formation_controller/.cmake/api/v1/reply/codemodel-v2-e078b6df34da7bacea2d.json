@@ -1,0 +1,133 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-9d0792f03e5af9f99dbf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "formation_controller",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "formation_controller_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-formation_controller_uninstall-RelWithDebInfo-7b54386200359bf99c12.json",
+					"name" : "formation_controller_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "formation_shape_broadcaster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-formation_shape_broadcaster-RelWithDebInfo-667aada37b6af32a0034.json",
+					"name" : "formation_shape_broadcaster",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "get_differential_value::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-get_differential_value-RelWithDebInfo-f485f0f4622a52c2cf6c.json",
+					"name" : "get_differential_value",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gps_heading_to_tf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gps_heading_to_tf-RelWithDebInfo-88265714da4843cbdc98.json",
+					"name" : "gps_heading_to_tf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "origin_pub::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-origin_pub-RelWithDebInfo-3a03bfc3bd9b6fdfa32e.json",
+					"name" : "origin_pub",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pid_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pid_server-RelWithDebInfo-f494e2412b77917b6d67.json",
+					"name" : "pid_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sum_and_scale::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sum_and_scale-RelWithDebInfo-4bd8360bd76fdde01552.json",
+					"name" : "sum_and_scale",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tf_repub::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tf_repub-RelWithDebInfo-046985a3322a7f2781e9.json",
+					"name" : "tf_repub",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-RelWithDebInfo-b7593695b40c4c3e30ed.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/smarc2user/colcon_ws/build/formation_controller",
+		"source" : "/home/smarc2user/colcon_ws/src/tuper/formation_controller"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

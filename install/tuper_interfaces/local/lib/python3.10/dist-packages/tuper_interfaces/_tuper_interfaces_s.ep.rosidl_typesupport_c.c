@@ -1,0 +1,1 @@
+/home/smarc2user/colcon_ws/build/tuper_interfaces/rosidl_generator_py/tuper_interfaces/_tuper_interfaces_s.ep.rosidl_typesupport_c.c

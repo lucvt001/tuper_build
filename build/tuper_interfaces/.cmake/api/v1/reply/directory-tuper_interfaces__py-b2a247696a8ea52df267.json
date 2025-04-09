@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "tuper_interfaces__py",
+		"source" : "/home/smarc2user/colcon_ws/build/tuper_interfaces/tuper_interfaces__py"
+	}
+}

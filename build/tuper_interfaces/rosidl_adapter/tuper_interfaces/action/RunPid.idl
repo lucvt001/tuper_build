@@ -1,0 +1,18 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from tuper_interfaces/action/RunPid.action
+// generated code does not contain a copyright notice
+
+
+module tuper_interfaces {
+  module action {
+    struct RunPid_Goal {
+      float setpoint;
+    };
+    struct RunPid_Result {
+      uint8 structure_needs_at_least_one_member;
+    };
+    struct RunPid_Feedback {
+      float current;
+    };
+  };
+};

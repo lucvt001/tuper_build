@@ -1,0 +1,8 @@
+source;share/tuper_btcpp/hook/cmake_prefix_path.ps1
+source;share/tuper_btcpp/hook/cmake_prefix_path.dsv
+source;share/tuper_btcpp/hook/cmake_prefix_path.sh
+source;share/tuper_btcpp/local_setup.bash
+source;share/tuper_btcpp/local_setup.dsv
+source;share/tuper_btcpp/local_setup.ps1
+source;share/tuper_btcpp/local_setup.sh
+source;share/tuper_btcpp/local_setup.zsh

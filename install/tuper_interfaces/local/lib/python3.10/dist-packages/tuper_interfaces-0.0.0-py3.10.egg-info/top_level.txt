@@ -1,0 +1,1 @@
+/home/smarc2user/colcon_ws/build/tuper_interfaces/ament_cmake_python/tuper_interfaces/tuper_interfaces.egg-info/top_level.txt

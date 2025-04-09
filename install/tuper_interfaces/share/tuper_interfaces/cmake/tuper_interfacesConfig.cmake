@@ -1,0 +1,1 @@
+/home/smarc2user/colcon_ws/build/tuper_interfaces/ament_cmake_core/tuper_interfacesConfig.cmake

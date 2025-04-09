@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-a1d799a59d14f9a6a93c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "tuper_interfaces__py",
+					"jsonFile" : "directory-tuper_interfaces__py-b2a247696a8ea52df267.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/smarc2user/colcon_ws/build/tuper_interfaces/tuper_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "tuper_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_tuper_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_tuper_interfaces_egg-d2f930f115f99b4e0975.json",
+					"name" : "ament_cmake_python_build_tuper_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_tuper_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_tuper_interfaces-5f4d16497c879c8963c4.json",
+					"name" : "ament_cmake_python_symlink_tuper_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces-d30a49f99fa4157ce505.json",
+					"name" : "tuper_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces__cpp-9eb4f873f54f918438bb.json",
+					"name" : "tuper_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "tuper_interfaces__py::@595d7afd8890ad8d38f1",
+					"jsonFile" : "target-tuper_interfaces__py-cc72f361127552470732.json",
+					"name" : "tuper_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces__rosidl_generator_c-fddf193f3b8817ae740c.json",
+					"name" : "tuper_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces__rosidl_generator_py-0bd3e83ddec03b7bfa07.json",
+					"name" : "tuper_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces__rosidl_typesupport_c-34f8fc173d5fe74117c4.json",
+					"name" : "tuper_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces__rosidl_typesupport_c__pyext-46b98072b76df43ee59e.json",
+					"name" : "tuper_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces__rosidl_typesupport_cpp-aa4355bb69135a9fdf49.json",
+					"name" : "tuper_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces__rosidl_typesupport_fastrtps_c-09c526a56050b6deefbf.json",
+					"name" : "tuper_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces__rosidl_typesupport_fastrtps_c__pyext-568e4e0483bff963136f.json",
+					"name" : "tuper_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces__rosidl_typesupport_fastrtps_cpp-e3c4b00841093ed0c8d2.json",
+					"name" : "tuper_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces__rosidl_typesupport_introspection_c-eb4f950d79c827087f71.json",
+					"name" : "tuper_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces__rosidl_typesupport_introspection_c__pyext-6d5dc89d0f713e6d3ed1.json",
+					"name" : "tuper_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces__rosidl_typesupport_introspection_cpp-b28a63c4ca22873b1da7.json",
+					"name" : "tuper_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_interfaces_uninstall-ccd0ec283d0bd9c7ca04.json",
+					"name" : "tuper_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-fc4818ec34ccfd01d65a.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/smarc2user/colcon_ws/build/tuper_interfaces",
+		"source" : "/home/smarc2user/colcon_ws/src/tuper/tuper_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

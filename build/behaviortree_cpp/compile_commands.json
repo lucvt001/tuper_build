@@ -1,0 +1,227 @@
+[
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DMTR_ENABLED=True -DUSING_ROS2  -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -o CMakeFiles/minitrace.dir/3rdparty/minitrace/minitrace.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/minitrace/minitrace.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/minitrace/minitrace.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/action_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/action_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/action_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/basic_types.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/basic_types.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/basic_types.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/behavior_tree.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/behavior_tree.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/behavior_tree.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/blackboard.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/blackboard.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/blackboard.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/bt_factory.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/bt_factory.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/bt_factory.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/decorator_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorator_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorator_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/condition_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/condition_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/condition_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/control_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/control_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/control_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/shared_library.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/shared_library.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/shared_library.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/tree_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/tree_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/tree_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/script_parser.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/script_parser.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/script_parser.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/json_export.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/json_export.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/json_export.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/xml_parsing.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/xml_parsing.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/xml_parsing.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/actions/test_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/actions/test_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/actions/test_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/actions/sleep_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/actions/sleep_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/actions/sleep_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/actions/updated_action.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/actions/updated_action.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/actions/updated_action.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/decorators/delay_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/delay_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/delay_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/decorators/inverter_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/inverter_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/inverter_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/decorators/repeat_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/repeat_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/repeat_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/decorators/retry_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/retry_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/retry_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/decorators/subtree_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/subtree_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/subtree_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/decorators/timeout_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/timeout_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/timeout_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/decorators/updated_decorator.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/updated_decorator.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/decorators/updated_decorator.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/controls/if_then_else_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/if_then_else_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/if_then_else_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/controls/fallback_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/fallback_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/fallback_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/controls/parallel_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/parallel_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/parallel_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/controls/parallel_all_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/parallel_all_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/parallel_all_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/controls/reactive_sequence.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/reactive_sequence.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/reactive_sequence.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/controls/reactive_fallback.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/reactive_fallback.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/reactive_fallback.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/controls/sequence_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/sequence_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/sequence_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/controls/sequence_with_memory_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/sequence_with_memory_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/sequence_with_memory_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/controls/switch_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/switch_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/switch_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/controls/while_do_else_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/while_do_else_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/while_do_else_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/controls/reactive_parallel_node.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/reactive_parallel_node.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/controls/reactive_parallel_node.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/loggers/bt_cout_logger.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/loggers/bt_cout_logger.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/loggers/bt_cout_logger.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/loggers/bt_file_logger_v2.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/loggers/bt_file_logger_v2.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/loggers/bt_file_logger_v2.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/loggers/bt_minitrace_logger.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/loggers/bt_minitrace_logger.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/loggers/bt_minitrace_logger.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/loggers/bt_observer.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/loggers/bt_observer.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/loggers/bt_observer.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/3rdparty/tinyxml2/tinyxml2.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/tinyxml2/tinyxml2.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/tinyxml2/tinyxml2.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/loggers/groot2_publisher.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/loggers/groot2_publisher.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/loggers/groot2_publisher.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/loggers/bt_sqlite_logger.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/loggers/bt_sqlite_logger.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/loggers/bt_sqlite_logger.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DLEXY_HAS_UNICODE_DATABASE=1 -DUSING_ROS2 -Dbehaviortree_cpp_EXPORTS -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/include -isystem /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG -fPIC   -Wpedantic -fno-omit-frame-pointer -Wall -Wextra -std=gnu++20 -o CMakeFiles/behaviortree_cpp.dir/src/shared_library_UNIX.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/shared_library_UNIX.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/src/shared_library_UNIX.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp/3rdparty/lexy/src",
+  "command": "/usr/bin/c++ -DUSING_ROS2 -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/../include -O3 -DNDEBUG   -Wpedantic -fno-omit-frame-pointer -pedantic-errors -Werror -Wall -Wextra -Wconversion -Wsign-conversion -Wno-parentheses -Wno-unused-local-typedefs -Wno-array-bounds -Wno-maybe-uninitialized -Wno-restrict -std=gnu++20 -o CMakeFiles/lexy_file.dir/input/file.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/input/file.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty/lexy/src/input/file.cpp"
+},
+{
+  "directory": "/home/smarc2user/colcon_ws/build/behaviortree_cpp/tools",
+  "command": "/usr/bin/c++ -DBTCPP_LIBRARY_VERSION=\\\"4.6.2\\\" -DUSING_ROS2 -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/3rdparty -I/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/include -isystem /opt/ros/humble/include/ament_index_cpp -O3 -DNDEBUG   -Wpedantic -fno-omit-frame-pointer -o CMakeFiles/bt4_plugin_manifest.dir/bt_plugin_manifest.cpp.o -c /home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/tools/bt_plugin_manifest.cpp",
+  "file": "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP/tools/bt_plugin_manifest.cpp"
+}
+]

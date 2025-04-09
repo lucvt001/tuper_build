@@ -1,0 +1,4 @@
+source;share/tuper_btcpp/local_setup.bash
+source;share/tuper_btcpp/local_setup.dsv
+source;share/tuper_btcpp/local_setup.sh
+source;share/tuper_btcpp/local_setup.zsh

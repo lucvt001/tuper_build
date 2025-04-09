@@ -1,0 +1,211 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						3,
+						4,
+						5,
+						6
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-6ba51f9e9c6b1d26aef4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "3rdparty/lexy",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-3rdparty.lexy-Release-9fc91a0c7daa616344bd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "3rdparty/lexy"
+				},
+				{
+					"build" : "3rdparty/lexy/src",
+					"jsonFile" : "directory-3rdparty.lexy.src-Release-6ecfbb869ce27cec1a2b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "3rdparty/lexy/src",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "sample_nodes",
+					"jsonFile" : "directory-sample_nodes-Release-57c1ce803c6aed08dc8f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sample_nodes"
+				},
+				{
+					"build" : "tests",
+					"jsonFile" : "directory-tests-Release-b01f6abb0ab61427ef3b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests"
+				},
+				{
+					"build" : "tools",
+					"jsonFile" : "directory-tools-Release-f9645b0170a45a75eff2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tools",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "examples",
+					"jsonFile" : "directory-examples-Release-1c8b83b621b6ef38a245.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples"
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						3,
+						4,
+						5,
+						6
+					],
+					"name" : "behaviortree_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "lexy",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "behaviortree_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-behaviortree_cpp-Release-13b4f333897044840070.json",
+					"name" : "behaviortree_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "behaviortree_cpp_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-behaviortree_cpp_uninstall-Release-85a6eab08d6ae0fc9c24.json",
+					"name" : "behaviortree_cpp_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "bt4_plugin_manifest::@b9a00e55f22b3d77656c",
+					"jsonFile" : "target-bt4_plugin_manifest-Release-3623721fb7cc9277d64b.json",
+					"name" : "bt4_plugin_manifest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "lexy_file::@2f813746fd03722eaf91",
+					"jsonFile" : "target-lexy_file-Release-87b93d17727345d88975.json",
+					"name" : "lexy_file",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "minitrace::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-minitrace-Release-24cb07a7c66a05e67f41.json",
+					"name" : "minitrace",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-d21bb7536b82e623906a.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/smarc2user/colcon_ws/build/behaviortree_cpp",
+		"source" : "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.CPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

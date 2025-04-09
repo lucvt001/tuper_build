@@ -1,0 +1,8 @@
+{
+  "package_name": "btcpp_ros2_interfaces",
+  "non_idl_tuples": [
+    "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.ROS2/btcpp_ros2_interfaces:msg/NodeStatus.msg",
+    "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.ROS2/btcpp_ros2_interfaces:action/ExecuteTree.action",
+    "/home/smarc2user/colcon_ws/src/tuper/BehaviorTree.ROS2/btcpp_ros2_interfaces:action/Sleep.action"
+  ]
+}

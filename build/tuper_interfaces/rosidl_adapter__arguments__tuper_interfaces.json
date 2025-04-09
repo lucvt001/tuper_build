@@ -1,0 +1,6 @@
+{
+  "package_name": "tuper_interfaces",
+  "non_idl_tuples": [
+    "/home/smarc2user/colcon_ws/src/tuper/tuper_interfaces:action/RunPid.action"
+  ]
+}

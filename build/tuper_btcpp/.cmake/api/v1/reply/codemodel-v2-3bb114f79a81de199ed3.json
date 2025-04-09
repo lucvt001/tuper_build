@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-f6bceee317057391ed30.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tuper_btcpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bt_planner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bt_planner-f3d8b234258a01fa33f7.json",
+					"name" : "bt_planner",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_tree_node_model::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_tree_node_model-d93a2657c0b0ca97778e.json",
+					"name" : "generate_tree_node_model",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tuper_btcpp_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tuper_btcpp_uninstall-ba73b9efc4daa56cba3d.json",
+					"name" : "tuper_btcpp_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-0c560008c4603aee42a5.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/smarc2user/colcon_ws/build/tuper_btcpp",
+		"source" : "/home/smarc2user/colcon_ws/src/tuper/tuper_btcpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

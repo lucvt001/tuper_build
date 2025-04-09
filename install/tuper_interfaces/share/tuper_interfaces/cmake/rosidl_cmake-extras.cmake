@@ -1,0 +1,1 @@
+/home/smarc2user/colcon_ws/build/tuper_interfaces/rosidl_cmake/rosidl_cmake-extras.cmake

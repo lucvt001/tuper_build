@@ -1,0 +1,1 @@
+/home/smarc2user/colcon_ws/build/path_planner/launch/visualize_paths.launch.py
