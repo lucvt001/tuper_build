@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-de807cd73231a9edcbf1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mqtt_msg_converter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "int32_to_float32::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-int32_to_float32-db0d51a88fac271afec3.json",
+					"name" : "int32_to_float32",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mqtt_msg_converter_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mqtt_msg_converter_uninstall-01353c74f03a90bebf08.json",
+					"name" : "mqtt_msg_converter_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string_to_navsatfix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string_to_navsatfix-88b5b187883aa061395d.json",
+					"name" : "string_to_navsatfix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-d56dd3a241f44b2cebcb.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/smarc2user/colcon_ws/build/mqtt_msg_converter",
+		"source" : "/home/smarc2user/colcon_ws/src/tuper/mqtt_msg_converter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
