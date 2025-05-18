@@ -1,3 +1,4 @@
 [console_scripts]
+origin_pub = arduagent.origin_pub:main
 rover = arduagent.rover:main
 

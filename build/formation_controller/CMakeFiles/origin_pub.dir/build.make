@@ -102,6 +102,12 @@ origin_pub: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesupport_fastrtps_
 origin_pub: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesupport_introspection_c.so
 origin_pub: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesupport_introspection_cpp.so
 origin_pub: /opt/ros/humble/lib/libgeographic_msgs__rosidl_generator_py.so
+origin_pub: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_fastrtps_c.so
+origin_pub: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_fastrtps_cpp.so
+origin_pub: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_introspection_c.so
+origin_pub: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_introspection_cpp.so
+origin_pub: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_cpp.so
+origin_pub: /opt/ros/humble/lib/libnav_msgs__rosidl_generator_py.so
 origin_pub: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_typesupport_fastrtps_c.so
 origin_pub: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_typesupport_fastrtps_cpp.so
 origin_pub: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_typesupport_introspection_c.so
@@ -115,6 +121,8 @@ origin_pub: /opt/ros/humble/lib/libsensor_msgs__rosidl_typesupport_cpp.so
 origin_pub: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesupport_c.so
 origin_pub: /opt/ros/humble/lib/libgeographic_msgs__rosidl_generator_c.so
 origin_pub: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesupport_cpp.so
+origin_pub: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_c.so
+origin_pub: /opt/ros/humble/lib/libnav_msgs__rosidl_generator_c.so
 origin_pub: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_typesupport_c.so
 origin_pub: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_generator_c.so
 origin_pub: /opt/ros/humble/lib/libtf2_ros.so

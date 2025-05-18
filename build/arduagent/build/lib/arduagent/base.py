@@ -9,6 +9,7 @@ from geometry_msgs.msg import PoseStamped, TransformStamped
 from nav_msgs.msg import Path
 from std_srvs.srv import Trigger, SetBool
 from tf2_ros import TransformBroadcaster
+import sys
 
 class ArduBase(Node):
     
@@ -49,17 +50,17 @@ class ArduBase(Node):
 
         self.update_telem_timer = self.create_timer(1/self.declare_parameter("telem_update_rate", 200.0).get_parameter_value().double_value, self.update_vehicle_telem)
         self.publish_telem_timer = self.create_timer(0.1, self.publish_telem)  # Fixed 10hz because whether the data is published depends on if it is updated; and the update rate of each message should be less than 10hz to keep traffic manageable
-        self.publish_path_timer = self.create_timer(1/self.declare_parameter("path_pub_rate", 2.0).get_parameter_value().double_value, self.publish_path)    # Path timer is separate because the frequency should be much lower
+        # self.publish_path_timer = self.create_timer(1/self.declare_parameter("path_pub_rate", 2.0).get_parameter_value().double_value, self.publish_path)    # Path timer is separate because the frequency should be much lower
 
     def initialize_publishers(self):
         buffer = 2
-        self.altitude_pub = self.create_publisher(Float32, self.declare_parameter("publishers.altitude", "telem/altitude").get_parameter_value().string_value, buffer)
+        # self.altitude_pub = self.create_publisher(Float32, self.declare_parameter("publishers.altitude", "telem/altitude").get_parameter_value().string_value, buffer)
         self.heading_pub = self.create_publisher(Float32, self.declare_parameter("publishers.heading", "telem/heading").get_parameter_value().string_value, buffer)
         self.gps_pub = self.create_publisher(NavSatFix, self.declare_parameter("publishers.gps", "telem/gps").get_parameter_value().string_value, buffer)
-        self.pose_pub = self.create_publisher(PoseStamped, self.declare_parameter("publishers.pose", "telem/pose").get_parameter_value().string_value, buffer)
-        self.path_pub = self.create_publisher(Path, self.declare_parameter("publishers.path", "telem/path").get_parameter_value().string_value, buffer)
+        # self.pose_pub = self.create_publisher(PoseStamped, self.declare_parameter("publishers.pose", "telem/pose").get_parameter_value().string_value, buffer)
+        # self.path_pub = self.create_publisher(Path, self.declare_parameter("publishers.path", "telem/path").get_parameter_value().string_value, buffer)
         self.battery0_pub = self.create_publisher(BatteryState, self.declare_parameter("publishers.battery0", "telem/battery0").get_parameter_value().string_value, buffer)
-        self.battery1_pub = self.create_publisher(BatteryState, self.declare_parameter("publishers.battery1", "telem/battery1").get_parameter_value().string_value, buffer)
+        # self.battery1_pub = self.create_publisher(BatteryState, self.declare_parameter("publishers.battery1", "telem/battery1").get_parameter_value().string_value, buffer)
         self.temperature_pub = self.create_publisher(Float32, self.declare_parameter("publishers.temperature", "telem/temperature").get_parameter_value().string_value, buffer)
         self.system_state_pub = self.create_publisher(Bool, self.declare_parameter("publishers.system_state", "telem/is_armed").get_parameter_value().string_value, buffer)
         self.flight_mode_pub = self.create_publisher(String, self.declare_parameter("publishers.flight_mode", "telem/flight_mode").get_parameter_value().string_value, buffer)
@@ -89,7 +90,9 @@ class ArduBase(Node):
             except:
                 pass
         if self.connected_address is None:
-            raise Exception("Could not connect to any of the addresses")
+            self.get_logger().error("Failed to connect to any address in %s" % (possible_addresses))
+            self.destroy_node()
+            sys.exit()
         
     def update_vehicle_telem(self):
         try:
@@ -143,18 +146,18 @@ class ArduBase(Node):
 
     def publish_telem(self):
 
-        if self.is_altitude_updated:
-            self.altitude_pub.publish(Float32(data=self.altitude))
-            self.is_altitude_updated = False
+        # if self.is_altitude_updated:
+        #     self.altitude_pub.publish(Float32(data=self.altitude))
+        #     self.is_altitude_updated = False
 
         if self.is_orientation_updated:
             self.heading_pub.publish(Float32(data=self.heading))
             self.is_orientation_updated = False
 
-        if self.is_local_pose_updated:
-            self.publish_pose(self.local_position, self.orientation)
-            self.publish_tf2(self.local_position, self.orientation)
-            self.is_local_pose_updated = False
+        # if self.is_local_pose_updated:
+        #     self.publish_pose(self.local_position, self.orientation)
+        #     self.publish_tf2(self.local_position, self.orientation)
+        #     self.is_local_pose_updated = False
 
         if self.is_gps_updated:
             self.gps_msg.header.stamp = self.get_clock().now().to_msg()
@@ -165,9 +168,9 @@ class ArduBase(Node):
             self.publish_battery_state(self.voltage0, self.current0, self.battery0_pub)
             self.is_battery0_updated = False
 
-        if self.is_battery1_updated:
-            self.publish_battery_state(self.voltage1, self.current1, self.battery1_pub)
-            self.is_battery1_updated = False
+        # if self.is_battery1_updated:
+        #     self.publish_battery_state(self.voltage1, self.current1, self.battery1_pub)
+        #     self.is_battery1_updated = False
 
         if self.is_temperature_updated:
             self.temperature_pub.publish(Float32(data=self.temperature))

@@ -1,0 +1,3 @@
+[console_scripts]
+serial_ping_node = serial_ping_pkg.serial_ping_node:main
+

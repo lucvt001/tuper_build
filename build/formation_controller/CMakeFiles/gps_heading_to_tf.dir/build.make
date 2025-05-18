@@ -102,6 +102,12 @@ gps_heading_to_tf: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesupport_fa
 gps_heading_to_tf: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesupport_introspection_c.so
 gps_heading_to_tf: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesupport_introspection_cpp.so
 gps_heading_to_tf: /opt/ros/humble/lib/libgeographic_msgs__rosidl_generator_py.so
+gps_heading_to_tf: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_fastrtps_c.so
+gps_heading_to_tf: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_fastrtps_cpp.so
+gps_heading_to_tf: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_introspection_c.so
+gps_heading_to_tf: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_introspection_cpp.so
+gps_heading_to_tf: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_cpp.so
+gps_heading_to_tf: /opt/ros/humble/lib/libnav_msgs__rosidl_generator_py.so
 gps_heading_to_tf: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_typesupport_fastrtps_c.so
 gps_heading_to_tf: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_typesupport_fastrtps_cpp.so
 gps_heading_to_tf: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_typesupport_introspection_c.so
@@ -149,6 +155,8 @@ gps_heading_to_tf: /usr/lib/aarch64-linux-gnu/libpython3.10.so
 gps_heading_to_tf: /opt/ros/humble/lib/libgeoconv.a
 gps_heading_to_tf: /opt/ros/humble/lib/libsensor_msgs__rosidl_generator_c.so
 gps_heading_to_tf: /opt/ros/humble/lib/libgeographic_msgs__rosidl_generator_c.so
+gps_heading_to_tf: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_c.so
+gps_heading_to_tf: /opt/ros/humble/lib/libnav_msgs__rosidl_generator_c.so
 gps_heading_to_tf: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_typesupport_c.so
 gps_heading_to_tf: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_generator_c.so
 gps_heading_to_tf: /opt/ros/humble/lib/libtf2_ros.so

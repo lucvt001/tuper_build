@@ -1,1 +1,1 @@
-rclcpp;rclcpp_action;std_msgs;sensor_msgs;geometry_msgs;geographic_msgs;geodesy;tuper_interfaces;tf2;tf2_ros;yaml-cpp;ros2launch;ament_lint_auto;ament_lint_common
+rclcpp;rclcpp_action;std_msgs;sensor_msgs;geometry_msgs;geographic_msgs;nav_msgs;geodesy;tuper_interfaces;tf2;tf2_ros;yaml-cpp;ros2launch;ament_lint_auto;ament_lint_common

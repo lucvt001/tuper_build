@@ -102,6 +102,12 @@ get_differential_value: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesuppo
 get_differential_value: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesupport_introspection_c.so
 get_differential_value: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesupport_introspection_cpp.so
 get_differential_value: /opt/ros/humble/lib/libgeographic_msgs__rosidl_generator_py.so
+get_differential_value: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_fastrtps_c.so
+get_differential_value: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_fastrtps_cpp.so
+get_differential_value: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_introspection_c.so
+get_differential_value: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_introspection_cpp.so
+get_differential_value: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_cpp.so
+get_differential_value: /opt/ros/humble/lib/libnav_msgs__rosidl_generator_py.so
 get_differential_value: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_typesupport_fastrtps_c.so
 get_differential_value: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_typesupport_fastrtps_cpp.so
 get_differential_value: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_typesupport_introspection_c.so
@@ -115,6 +121,8 @@ get_differential_value: /opt/ros/humble/lib/libsensor_msgs__rosidl_typesupport_c
 get_differential_value: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesupport_c.so
 get_differential_value: /opt/ros/humble/lib/libgeographic_msgs__rosidl_generator_c.so
 get_differential_value: /opt/ros/humble/lib/libgeographic_msgs__rosidl_typesupport_cpp.so
+get_differential_value: /opt/ros/humble/lib/libnav_msgs__rosidl_typesupport_c.so
+get_differential_value: /opt/ros/humble/lib/libnav_msgs__rosidl_generator_c.so
 get_differential_value: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_typesupport_c.so
 get_differential_value: /home/smarc2user/colcon_ws/install/tuper_interfaces/lib/libtuper_interfaces__rosidl_generator_c.so
 get_differential_value: /opt/ros/humble/lib/libtf2_ros.so

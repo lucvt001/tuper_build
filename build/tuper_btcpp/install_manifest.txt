@@ -1,7 +1,9 @@
 /home/smarc2user/colcon_ws/install/tuper_btcpp/include//tuper_btcpp/set_pid.hpp
 /home/smarc2user/colcon_ws/install/tuper_btcpp/include//tuper_btcpp/check_float_for_duration.hpp
 /home/smarc2user/colcon_ws/install/tuper_btcpp/include//tuper_btcpp/log_to_ros.hpp
+/home/smarc2user/colcon_ws/install/tuper_btcpp/include//tuper_btcpp/get_string_from_topic.hpp
 /home/smarc2user/colcon_ws/install/tuper_btcpp/include//tuper_btcpp/utils.hpp
+/home/smarc2user/colcon_ws/install/tuper_btcpp/include//tuper_btcpp/publish_string.hpp
 /home/smarc2user/colcon_ws/install/tuper_btcpp/include//tuper_btcpp/get_float_from_topic.hpp
 /home/smarc2user/colcon_ws/install/tuper_btcpp/include//tuper_btcpp/get_ros_time.hpp
 /home/smarc2user/colcon_ws/install/tuper_btcpp/include//tuper_btcpp/publish_float.hpp

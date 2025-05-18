@@ -5,12 +5,11 @@
 /home/smarc2user/colcon_ws/install/formation_controller/lib/formation_controller/sum_and_scale
 /home/smarc2user/colcon_ws/install/formation_controller/lib/formation_controller/origin_pub
 /home/smarc2user/colcon_ws/install/formation_controller/lib/formation_controller/formation_shape_broadcaster
-/home/smarc2user/colcon_ws/install/formation_controller/share/formation_controller//launch/agent_bringup.launch.py
-/home/smarc2user/colcon_ws/install/formation_controller/share/formation_controller//launch/agent_bringup_real.launch.py
-/home/smarc2user/colcon_ws/install/formation_controller/share/formation_controller//launch/agent_bringup_sim.launch.py
+/home/smarc2user/colcon_ws/install/formation_controller/lib/formation_controller/tf_to_path
+/home/smarc2user/colcon_ws/install/formation_controller/share/formation_controller//launch/follower_bringup.launch.py
 /home/smarc2user/colcon_ws/install/formation_controller/share/formation_controller//launch/pid_servers.launch.py
+/home/smarc2user/colcon_ws/install/formation_controller/share/formation_controller//launch/sam_follower_bringup.launch.py
 /home/smarc2user/colcon_ws/install/formation_controller/share/formation_controller//config/formation_shape.yaml
-/home/smarc2user/colcon_ws/install/formation_controller/share/formation_controller//config/mqtt_params.yaml
 /home/smarc2user/colcon_ws/install/formation_controller/share/formation_controller//config/overall_params.yaml
 /home/smarc2user/colcon_ws/install/formation_controller/share/formation_controller//config/pid_params.yaml
 /home/smarc2user/colcon_ws/install/formation_controller/share/ament_index/resource_index/package_run_dependencies/formation_controller

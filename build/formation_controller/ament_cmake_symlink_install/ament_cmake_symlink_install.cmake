@@ -310,7 +310,7 @@ message(STATUS "Execute custom install script")
 
 # begin of custom install code
 
-# install("TARGETS" "pid_server" "tf_repub" "gps_heading_to_tf" "get_differential_value" "sum_and_scale" "origin_pub" "formation_shape_broadcaster" "DESTINATION" "lib/formation_controller")
+# install("TARGETS" "pid_server" "tf_repub" "gps_heading_to_tf" "get_differential_value" "sum_and_scale" "origin_pub" "formation_shape_broadcaster" "tf_to_path" "DESTINATION" "lib/formation_controller")
 include("/home/smarc2user/colcon_ws/build/formation_controller/ament_cmake_symlink_install_targets_0_${CMAKE_INSTALL_CONFIG_NAME}.cmake")
 
 # install(DIRECTORY "launch" "config" "DESTINATION" "share/formation_controller/")
