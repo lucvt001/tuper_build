@@ -4,6 +4,7 @@ setup.py
 position_filter/__init__.py
 position_filter/draft.py
 position_filter/filter.py
+position_filter/filter2.py
 position_filter.egg-info/PKG-INFO
 position_filter.egg-info/SOURCES.txt
 position_filter.egg-info/dependency_links.txt

@@ -1,1 +1,1 @@
-/home/smarc2user/colcon_ws/src/serial_ping_pkg/setup.py
+/home/smarc2user/colcon_ws/src/tuper/serial_ping_pkg/setup.py

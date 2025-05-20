@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# EASY-INSTALL-ENTRY-SCRIPT: 'position-filter','console_scripts','position_filter'
+# EASY-INSTALL-ENTRY-SCRIPT: 'position-filter','console_scripts','filter'
 import re
 import sys
 
@@ -30,4 +30,4 @@ globals().setdefault('load_entry_point', importlib_load_entry_point)
 
 if __name__ == '__main__':
     sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
-    sys.exit(load_entry_point('position-filter', 'console_scripts', 'position_filter')())
+    sys.exit(load_entry_point('position-filter', 'console_scripts', 'filter')())

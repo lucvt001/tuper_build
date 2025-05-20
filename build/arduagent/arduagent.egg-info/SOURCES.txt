@@ -4,6 +4,7 @@ setup.py
 arduagent/__init__.py
 arduagent/base.py
 arduagent/copter.py
+arduagent/gps_publisher.py
 arduagent/origin_pub.py
 arduagent/rover.py
 arduagent/sub.py
@@ -15,7 +16,9 @@ arduagent.egg-info/requires.txt
 arduagent.egg-info/top_level.txt
 arduagent.egg-info/zip-safe
 config/mqtt_params_follower.yaml
-config/mqtt_params_leader.yaml
+config/mqtt_params_follower1.yaml
+config/mqtt_params_leader1.yaml
+config/mqtt_params_leader2.yaml
 config/rover.yaml
 launch/rover_bringup.launch.py
 resource/arduagent
